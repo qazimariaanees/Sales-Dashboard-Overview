@@ -99,7 +99,7 @@
 
 <h2 id="-author">👩‍💻 Author</h2>
 <p>
-  <b>Your Name</b><br/>
+  <b>Qazi Maria</b><br/>
   <!-- Optional: Add contact links -->
   <!-- <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> • <a href="mailto:you@example.com">Email</a> -->
 </p>
