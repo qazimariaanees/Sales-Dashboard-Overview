@@ -1,4 +1,3 @@
-# Sales-Dashboard-Overview
 <!-- README.md (HTML-styled for GitHub) -->
 <div align="center">
 
@@ -30,9 +29,7 @@
   <p>
     <a href="#-features">Features</a> •
     <a href="#-tools--technology">Tools</a> •
-    <a href="#-dashboard-preview">Preview</a> •
     <a href="#-key-insights">Insights</a> •
-    <a href="#-repository-structure">Structure</a> •
     <a href="#%EF%B8%8F-how-to-use">How to Use</a>
   </p>
 </div>
@@ -66,14 +63,14 @@
 <ul>
   <li><b>Interactive Filters</b></li>
   <li><b>Collapsible vertical filter panel</b></li>
-  <li><b>Light & Dark mode toggle</b></li>
+  <li><b>Light & Dark Mode</b> toggle support</li>
 </ul>
 
 <h3>Design Enhancements</h3>
 <ul>
   <li><b>Average lines</b> on charts</li>
   <li><b>Color-coded KPIs</b></li>
-  <li><b>Customized dashboard background</b></li>
+  <li><b>Customized dashboard background</b> (Light & Dark Mode supported)</li>
 </ul>
 
 <h2 id="-tools--technology">🛠 Tools & Technology</h2>
@@ -81,10 +78,6 @@
   <li><b>Data Source:</b> Excel</li>
   <li><b>Visualization Tool:</b> Tableau</li>
 </ul>
-
-<h2 id="-dashboard-preview">📷 Dashboard Preview</h2>
-<p><i>Dark Mode</i></p>
-<p><i>Light Mode</i></p>
 
 <h2 id="-key-insights">📈 Key Insights</h2>
 <ul>
@@ -96,18 +89,12 @@
   <li><b>YoY</b> growth indicates positive momentum in <b>Sales</b>, <b>Profit</b>, and <b>Quantity</b>.</li>
 </ul>
 
-<h2 id="-repository-structure">📂 Repository Structure</h2>
-<pre><code>├── Sales_Dashboard_Overview.twbx   # Tableau workbook
-├── data/                           # Excel data source
-├── images/                         # Screenshots (light & dark mode)
-└── README.md                       # Project documentation
-</code></pre>
 
 <h2 id="%EF%B8%8F-how-to-use">▶️ How to Use</h2>
 <ol>
   <li>Download or clone this repository.</li>
   <li>Open <code>Sales_Dashboard_Overview.twbx</code> in <b>Tableau Desktop</b> or <b>Tableau Public</b>.</li>
-  <li>Explore interactive dashboards, apply filters, and toggle between light/dark mode.</li>
+  <li>Explore interactive dashboards, apply filters, and toggle between Light/Dark Mode.</li>
 </ol>
 
 <h2 id="-author">👩‍💻 Author</h2>
