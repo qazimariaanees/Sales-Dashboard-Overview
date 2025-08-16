@@ -84,13 +84,7 @@
 
 <h2 id="-dashboard-preview">📷 Dashboard Preview</h2>
 <p><i>Dark Mode</i></p>
-<p>
-  <img src="C:\Users\qazim\Pictures\Screenshots\Screenshot 2025-08-16 164439.png" alt="Dashboard Dark Mode preview" width="800"/>
-</p>
 <p><i>Light Mode</i></p>
-<p>
-  <img src="C:\Users\qazim\Pictures\Screenshots\Screenshot 2025-08-16 170034.png" alt="Dashboard Light Mode preview" width="800"/>
-</p>
 
 <h2 id="-key-insights">📈 Key Insights</h2>
 <ul>
